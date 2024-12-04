@@ -3,35 +3,35 @@
         "id": "P-0001",
         "category": "electronics",
         "name": "Laptop",
-        "quantity": 1000,
+        "quantity": 10,
         "price": 1200.00
     },
     {
         "id": "P-0002",
         "category": "furniture",
         "name": "Office Chair",
-        "quantity": 1500,
+        "quantity": 15,
         "price": 150.00
     },
     {
         "id": "P-0003",
         "category": "stationery",
         "name": "Notebook",
-        "quantity": 1000,
+        "quantity": 10,
         "price": 2.50
     },
     {
         "id": "P-0004",
         "category": "electronics",
         "name": "Smartphone",
-        "quantity": 2000,
+        "quantity": 20,
         "price": 800.00
     },
     {
         "id": "P-0005",
         "category": "appliances",
         "name": "Microwave",
-        "quantity": 1500,
+        "quantity": 15,
         "price": 200.00
     }
 ]
