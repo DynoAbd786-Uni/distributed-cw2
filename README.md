@@ -51,6 +51,8 @@ The Login can be set by the user. Run this (reset_database) before testing the m
 
 ### 3. Run locally
 
+Press F5 to runt he emulation 
+
 Run the http trigger to initialise and/or reset the database. Input your username and password as follows
 ```json
 {
