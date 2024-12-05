@@ -80,6 +80,6 @@ When complete, you may run the http trigger to input a list of products. An exam
     ]
 }
 ```
-Entries can be added, removed or modified, but must remain in this `products` list to be able to run.
+Entries can be added, removed or modified inside this .json file, but must remain in this `products` list to be able to run.
 
 
