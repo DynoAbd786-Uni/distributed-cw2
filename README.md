@@ -19,9 +19,11 @@ This project implements a serverless workflow using Azure Functions, designed to
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repository-url>
-cd <repository-name>
+git clone https://github.com/DynoAbd786-Uni/distributed-cw2.git
+cd distributed-cw2
 ```
+
+Run Azurite via F1
 
 ### 2. Create local.settings.json
 Create a local.settings.json file in the project root with the following template:
@@ -78,6 +80,6 @@ When complete, you may run the http trigger to input a list of products. An exam
     ]
 }
 ```
-
+Entries can be added, removed or modified, but must remain in this `products` list to be able to run.
 
 
